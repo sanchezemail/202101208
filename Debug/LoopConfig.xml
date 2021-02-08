@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configurar>
+    <Archivo>
+        <ArchDir>D:\salida\SignaList.xlsx</ArchDir>
+        <Description>PATH DATABASE, debe ser un archivo excel .xlsx</Description>
+        <Tipo>1</Tipo>
+    </Archivo>
+    <Archivo>
+        <ArchDir>D:\GetAttr\</ArchDir>
+        <Description>PATH TYPICAL,dbe ser el nombre de un Directorio</Description>
+        <Tipo>2</Tipo>
+    </Archivo>
+    <Archivo>
+        <ArchDir>D:\salida\</ArchDir>
+        <Description>PATH LOOP, debe ser el nombre de un Directorio</Description>
+        <Tipo>3</Tipo>
+    </Archivo>
+    <Archivo>
+        <ArchDir>ATRIB</ArchDir>
+        <Description>FORMAT BLOCK, debe ser el nombre de un BLOCK AutocaD</Description>
+        <Tipo>4</Tipo>
+    </Archivo>
+</Configurar>
